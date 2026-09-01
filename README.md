@@ -1,3 +1,4 @@
 # programiranjeVjezbanje
+
 Ovo je respository za vježbanje programiranja od nule.
-Ovo je moja prav promjena!
+Ovo je moja prva promjena!
